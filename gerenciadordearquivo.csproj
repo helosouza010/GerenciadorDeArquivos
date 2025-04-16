@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework> <!-- ou net6.0, dependendo da versão do .NET que você está usando -->
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.AssemblyInfoInputs.cache
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.AssemblyInfo.cs
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.csproj.CoreCompileInputs.cache
+C:\Users\helos\GerenciadorDeArquivos\bin\Debug\net8.0\gerenciadordearquivo.exe
+C:\Users\helos\GerenciadorDeArquivos\bin\Debug\net8.0\gerenciadordearquivo.deps.json
+C:\Users\helos\GerenciadorDeArquivos\bin\Debug\net8.0\gerenciadordearquivo.runtimeconfig.json
+C:\Users\helos\GerenciadorDeArquivos\bin\Debug\net8.0\gerenciadordearquivo.dll
+C:\Users\helos\GerenciadorDeArquivos\bin\Debug\net8.0\gerenciadordearquivo.pdb
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.dll
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\refint\gerenciadordearquivo.dll
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.pdb
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.genruntimeconfig.cache
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\ref\gerenciadordearquivo.dll
