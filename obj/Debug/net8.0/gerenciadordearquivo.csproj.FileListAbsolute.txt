@@ -12,3 +12,15 @@ C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\refint\gerenciadordearquiv
 C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.pdb
 C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.genruntimeconfig.cache
 C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\ref\gerenciadordearquivo.dll
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.sourcelink.json
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.RazorAssemblyInfo.cache
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\gerenciadordearquivo.RazorAssemblyInfo.cs
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets\msbuild.gerenciadordearquivo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets\msbuild.build.gerenciadordearquivo.props
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gerenciadordearquivo.props
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gerenciadordearquivo.props
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\helos\GerenciadorDeArquivos\obj\Debug\net8.0\scopedcss\bundle\gerenciadordearquivo.styles.css

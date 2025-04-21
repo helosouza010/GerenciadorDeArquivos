@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Gerenciador de Arquivos";
+}
+
+<h1>Gerenciador de Arquivos</h1>
+
+<form asp-controller="Arquivo" asp-action="CriarArquivo" method="post">
+    <button type="submit">1 - Criar arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="LerArquivo" method="post">
+    <button type="submit">2 - Ler arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="EscreverArquivo" method="post">
+    <button type="submit">3 - Escrever arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="RenomearArquivo" method="post">
+    <button type="submit">4 - Renomear arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="CopiarArquivo" method="post">
+    <button type="submit">5 - Copiar arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="ExcluirArquivo" method="post">
+    <button type="submit">6 - Excluir arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="MostrarInformacoesDoArquivo" method="post">
+    <button type="submit">7 - Mostrar informações do arquivo</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="ListarArquivosDoDiretorio" method="post">
+    <button type="submit">8 - Listar arquivos do diretório</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="ModificarAtribustos" method="post">
+    <button type="submit">9 - Modificar atributos</button>
+</form>
+
+<form asp-controller="Arquivo" asp-action="Sair" method="post">
+    <button type="submit">10 -Sair</button>
+</form>
+
+
+@if (ViewBag.Mensagem != null)
+{
+    <p>@ViewBag.Mensagem</p>
+}
+@if (ViewBag.Conteudo != null)
+{
+    <pre>@ViewBag.Conteudo</pre>
+}

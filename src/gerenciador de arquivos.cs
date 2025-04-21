@@ -116,5 +116,10 @@ namespace GerenciadorDeArquivos
         {
             throw new NotImplementedException();
         }
+
+        internal void WriteToFile(string v1, string v2)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
